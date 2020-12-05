@@ -19,8 +19,8 @@
 
 
 [website]: https://riadennaim.com
-[geeksforgeeks]: https://www.geeksforgeeks.org/data-structures/
+[geeksforgeeks]: https://www.geeksforgeeks.org/data-structures
 [vijini_mallawaarachchi]: https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
 [amanda_fawcett]: https://www.educative.io/blog/javascript-data-structures
-[paul_ryan]: https://www.educative.io/blog/javascript-data-structures
-[fernando_doglio]: https://www.educative.io/blog/javascript-data-structures
+[paul_ryan]: https://blog.logrocket.com/know-your-javascript-data-structures
+[fernando_doglio]: https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c
